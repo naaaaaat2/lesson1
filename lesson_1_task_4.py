@@ -1,6 +1,5 @@
-def print_greeting(message):
-    print(message)
+def print_greeting():
+    print("Привет, мир!")
 
 
-# вызов функции
-print_greeting("Привет, мир!")
+print_greeting()
